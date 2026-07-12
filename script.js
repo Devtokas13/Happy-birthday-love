@@ -1,0 +1,2 @@
+const msg=`Happy Birthday, my Cartoon. Thank you for filling my life with love, laughter and unforgettable memories. I hope every dream of yours comes true. Love forever, Your Gooli ❤️`;
+let i=0;function t(){if(i<msg.length){type.textContent+=msg[i++];setTimeout(t,35)}};t();
